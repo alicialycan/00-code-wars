@@ -1,5 +1,13 @@
-#Code Wars Challenge: Replace All Dots
+## KATA CHALLENGE - REPLACE ALL DOTS
 
-* Find and replace all dots in the specified String with dashes. The code provided is not working.
-* https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
-* We found a solution by adding a variable and then calling the replace method, and changing the dot to a global variable. 
+The code provided is supposed replace all the dots . in the specified String str with dashes -
+
+But it's not working properly.
+
+Task:
+Fix the bug so we can all go home early.
+
+Notes:
+String str will never be null.
+
+KATA LINK: https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
